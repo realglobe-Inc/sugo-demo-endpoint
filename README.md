@@ -80,12 +80,12 @@ const sgServer = require('sg-server')
 
 const server = sgServer({
   middlewares: [
-    require('sugo-demo-endpoint')({
+    /* ... */
+  ],
+  endpoints: {
+    '/foo/bar': require('sugo-demo-endpoint')({
       // Options
     })
-  ],
-  routes: {
-    /* ... */
   }
 })
 
