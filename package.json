@@ -1,6 +1,6 @@
 {
   "name": "sugo-demo-endpoint",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Demo of sugo endpoint",
   "main": "lib",
   "scripts": {
@@ -10,7 +10,7 @@
   "repository": "realglobe-Inc/sugo-demo-endpoint",
   "keywords": [
     "SUGOS",
-    "middleware"
+    "endpoint"
   ],
   "author": {
     "email": "okunishitaka.com@gmail.com",
