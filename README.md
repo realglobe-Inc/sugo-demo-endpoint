@@ -69,7 +69,7 @@ $ npm install sugo-demo-endpoint --save
 Usage
 ---------
 
-Apply middleware to sg-server, which is internally use by sugo-cloud.
+Apply endpoint to sg-server, which is internally use by sugo-cloud.
 
 ```javascript
 /** This is an example to use sugo-demo-endpoint */
