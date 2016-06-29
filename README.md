@@ -129,11 +129,12 @@ Then call the api from agent script.
 
 'use strict'
 
-const sgAgentBase = require('sg-agent-base')
+const sugoAgentBase = require('sugo-agent-base')
 const co = require('co')
 
 co(function * () {
-  let knocked = yield sgAgentBase('/foo/bar').knock()
+  let agent = sugoAgentBase('/foo/bar')
+  let knocked = yield agent.knock()
   /* .. */
 }).catch((err) => console.error(err))
 
