@@ -1,6 +1,6 @@
 {
   "name": "sugo-demo-endpoint",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Demo of sugo endpoint",
   "main": "lib",
   "scripts": {
