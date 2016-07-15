@@ -27,16 +27,16 @@
     "debug": "^2.2.0"
   },
   "devDependencies": {
-    "ape-doc": "^2.0.3",
-    "ape-tmpl": "^5.0.11",
+    "ape-doc": "^2.0.4",
+    "ape-tmpl": "^5.0.12",
     "aport": "^1.0.0",
-    "arequest": "^2.0.4",
+    "arequest": "^2.0.5",
     "asleep": "^1.0.3",
-    "coz": "^6.0.3",
+    "coz": "^6.0.5",
     "injectmock": "^2.0.0",
-    "sg-server": "^1.2.7",
+    "sg-server": "^1.2.8",
     "sugo-ci-endpoint": "^1.0.0",
-    "sugos-assets": "^1.1.9"
+    "sugos-assets": "^2.0.1"
   },
   "engines": {
     "node": ">=6",
