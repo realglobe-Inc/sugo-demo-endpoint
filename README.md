@@ -174,7 +174,7 @@ Demo of sugo endpoint
 
 License
 -------
-This software is released under the [MIT License](https://github.com/realglobe-Inc/sugo-demo-endpoint/blob/master/LICENSE).
+This software is released under the [Apache-2.0 License](https://github.com/realglobe-Inc/sugo-demo-endpoint/blob/master/LICENSE).
 
 <!-- LICENSE End -->
 
